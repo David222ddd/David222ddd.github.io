@@ -3,11 +3,11 @@
   <title>Davidの0号基地</title>
   
   <subtitle>终于把这鬼玩意搞成了</subtitle>
-  <link href="https://david222ddd.github.io/project/atom.xml" rel="self"/>
+  <link href="https://david222ddd.github.io/atom.xml" rel="self"/>
   
-  <link href="https://david222ddd.github.io/project/"/>
+  <link href="https://david222ddd.github.io/"/>
   <updated>2021-09-30T17:39:44.492Z</updated>
-  <id>https://david222ddd.github.io/project/</id>
+  <id>https://david222ddd.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://david222ddd.github.io/project/2021/10/01/hello-world/"/>
-    <id>https://david222ddd.github.io/project/2021/10/01/hello-world/</id>
+    <link href="https://david222ddd.github.io/2021/10/01/hello-world/"/>
+    <id>https://david222ddd.github.io/2021/10/01/hello-world/</id>
     <published>2021-09-30T17:39:44.492Z</published>
     <updated>2021-09-30T17:39:44.492Z</updated>
     
