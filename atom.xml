@@ -6,15 +6,37 @@
   <link href="https://david222ddd.github.io/atom.xml" rel="self"/>
   
   <link href="https://david222ddd.github.io/"/>
-  <updated>2021-09-30T17:39:44.492Z</updated>
+  <updated>2021-10-10T03:09:48.780Z</updated>
   <id>https://david222ddd.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>DavidYR</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实至名归第一篇</title>
+    <link href="https://david222ddd.github.io/2021/10/10/%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>https://david222ddd.github.io/2021/10/10/%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92%E7%AC%AC%E4%B8%80%E7%AF%87/</id>
+    <published>2021-10-10T02:23:18.000Z</published>
+    <updated>2021-10-10T03:09:48.780Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一些写在开始的话"><a href="#一些写在开始的话" class="headerlink" title="一些写在开始的话"></a>一些写在开始的话</h1><h2 id="建立"><a href="#建立" class="headerlink" title="建立"></a>建立</h2><p>​        这个博客是建立于2020.10.1的，因为对这些程序语言基本上是一无所知，所以花了将近半个月的时间才把基本框架制作完毕。中间过程实在是苦不堪言，虽然教程上写的明明白白，但是由于个人电脑的一些独特配置，经常出现err的情况，又上网去查各种解决方案，前前后后反反复复才发现从最一开始的nodejs安装过程中windows powershell的自动安装被我关闭了，抱着最后一丝希望又试了一次，终于！终于！！就有了读者你们现在看到的<em>“Davidの0号基地”</em>了。哈哈哈哈哈哈哈哈哈哈哈哈哈哈这个过程真的是对我太不友好了。</p><p>​        在这里感谢所有教程的提供者！</p><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>​        之所以建立了一个博客，是因为想拥有一个像自己专属小避风港的可以畅所欲言的地方，本来是想用新浪的，就像我语文老师一样，在上面经常写一写文章，还可以以此来提高语言表达能力。但是，不知怎的，新浪博客居然关闭了它的注册功能，气死。所以不得不自己建一个了（什么？为什么不用像小红书，简书那些软件？因为那时候根本不了解好吧。）</p><p>​        也许有人会问我怎么才能拥有一个自己的博客网站，emmmm别问，问就是不知道，网上教程真的很全很详细的，我真的对此一窍不通，很多术语和操作原理我是在不断碰壁的状况下才学会的，我想只要有心应该都可以弄好。</p><p>​        作为实至名归的第一篇文章，写的时候还是十分激动的。网上看到很多个人博客，很多都是程序员或者相关专业的人在弄，文章都是关于前端设计，程序算法的，那么我想我的个人网站可能就真的很异端了，应该会更具有一种生活气息和文学性吧。</p><h2 id="防杠声明"><a href="#防杠声明" class="headerlink" title="防杠声明"></a>防杠声明</h2><p>​        其实在网络上写文章还是有几点担忧的，如果说错了些什么或者遇上一些很另类的人，被网曝被人肉了怎么办？所以在这里先提前做一下声明：本博客所有文章均代表个人观点，有误失真是无法避免的，欢迎指正和讨论，但别一言不合就人身攻击。</p><h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>希望我能够坚持下去吧。</p><p>笔于21/10/10</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一些写在开始的话&quot;&gt;&lt;a href=&quot;#一些写在开始的话&quot; class=&quot;headerlink&quot; title=&quot;一些写在开始的话&quot;&gt;&lt;/a&gt;一些写在开始的话&lt;/h1&gt;&lt;h2 id=&quot;建立&quot;&gt;&lt;a href=&quot;#建立&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    
+    <category term="-置顶" scheme="https://david222ddd.github.io/tags/%E7%BD%AE%E9%A1%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
