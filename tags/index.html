@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Tag: 置顶, Davidの0号基地">
+    <meta name="keywords" content="Tags, Davidの0号基地">
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>Tag: 置顶 | Davidの0号基地</title>
+    <title>Tags | Davidの0号基地</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -364,7 +364,7 @@
                 
                 <a href="/tags/%E7%BD%AE%E9%A1%B6/" title="置顶: 1">
                     <span class="chip center-align waves-effect waves-light
-                             chip-active "
+                             chip-default "
                             data-tagname="置顶" style="background-color: #F9EBEA;">置顶
                         <span class="tag-length">1</span>
                     </span>
@@ -385,43 +385,32 @@
 </div>
 
     
+    <link rel="stylesheet" type="text/css" href="/libs/jqcloud/jqcloud.css">
+<style type="text/css">
+    #tag-wordcloud {
+        width: 100%;
+        height: 300px;
+    }
+</style>
 
-    <article id="articles" class="container articles">
-        <div class="row tags-posts">
-            
-            
-            <div class="article tag-post col s12 m6 l4" data-tags="置顶" data-aos="fade-up">
-                <div class="card">
-                    <a href="/2021/10/10/%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92%E7%AC%AC%E4%B8%80%E7%AF%87/">
-                        <div class="card-image tag-image">
-                            
-                            
-                            <img src="/medias/featureimages/1.jpg" class="responsive-img" alt="实至名归第一篇">
-                            
-                            <span class="card-title">实至名归第一篇</span>
-                        </div>
-                    </a>
-                    <div class="card-content article-content">
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-10-10
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fas fa-user fa-fw"></i>
-                                DavidYR
-                                
-                            </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </article>
+<div class="container" data-aos="fade-up">
+    <div class="card">
+        <div id="tag-wordcloud" class="card-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/libs/jqcloud/jqcloud-1.0.4.min.js"></script>
+<script type="text/javascript">
+    
+
+    $('#tag-wordcloud').jQCloud([{"text":"置顶","weight":1,"link":"/tags/置顶/"},{"text":"随笔","weight":1,"link":"/tags/随笔/"}], {
+        autoResize: true
+    });
+</script>
+
+    
+
 </main>
-
-
 
 
     <footer class="page-footer bg-color">
